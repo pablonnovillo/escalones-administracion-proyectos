@@ -1,0 +1,9 @@
+// Simulación de desarrollo
+
+Historia de Usuario: HU-01
+
+Funcionalidad:
+Registro de usuarios en la plataforma ESCALONES.
+
+Este archivo representa un ejemplo de código fuente utilizado
+para simular el desarrollo del proyecto.
